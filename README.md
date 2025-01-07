@@ -5,10 +5,12 @@ Add opacity to the body tag and decrease it every day until their site completel
 
 
 ```javascript
-/* change these variables as you wish */
-var due_date = new Date('2017-02-27');
-var days_deadline = 60;
-/* stop changing here */
+  /**
+   * Configuration Variables
+   * Adjust these values as needed
+   */
+  const dueDate = new Date('2025-02-27'); // Payment due date
+  const deadlineInDays = 60;             // Grace period in days
 ```
 
 PS: Next time make sure you get paid.
