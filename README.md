@@ -11,7 +11,7 @@ var days_deadline = 60;
 /* stop changing here */
 ```
 
-PS: Next time use [letsdeel.com](https://letsdeel.com ) to make sure you get paid.
+PS: Next time make sure you get paid.
 
 ## Usage
 Just load the not-paid.js file in ```<head>```
@@ -25,11 +25,7 @@ Just load the not-paid.js file in ```<head>```
 
 ## Author
 
-Inspired from twitter (@riklomas)
-Made by Ciprian (@kleampa), Romania
+Inspired from twitter (@riklomas) & (@kleampa)
+Made by halrraiser (@halrraiser)
 
 PS: No PR's or issues will be accepted for this project. 
-
-## Advertising
-
-Because this repo is going viral from time to time to developers, I'm open for discussion if you want to promote a product/service in this README file. Just mail me at kleampa[]gmail
