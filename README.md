@@ -23,9 +23,11 @@ Just load the not-paid.js file in ```<head>```
 - iOS (SwiftUI) version available [here](https://github.com/vfrascello/not-paid-ios/).
 - Angular version available [here](https://github.com/CleitonJB/not-paid).
 
-## Author
+## Credits
 
 Inspired from twitter (@riklomas) & (@kleampa)
-Made by halrraiser (@halrraiser)
+Made by halrraiser (@halrraiser) [This is a re-designed script from @kleampa]
 
 PS: No PR's or issues will be accepted for this project. 
+                                                
+
