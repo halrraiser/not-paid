@@ -28,7 +28,7 @@ Just load the not-paid.js file in ```<head>```
 ## Credits
 
 Inspired from twitter (@riklomas) & (@kleampa)
-Made by halrraiser (@halrraiser) [This is a re-designed script from @kleampa]
+Made by [halrraiser](https://github.com/halrraiser) (@halrraiser) [This is a re-designed script from @kleampa]
 
 PS: No PR's or issues will be accepted for this project. 
                                                 
